@@ -23,6 +23,16 @@ export default function Home() {
     '/13.jpeg',
     '/14.jpeg',
     '/15.jpeg',
+    '/16.jpeg',
+    '/17.jpeg',
+    '/18.jpeg',
+    '/19.jpeg',
+    '/20.jpeg',
+    '/21.jpeg',
+    '/22.jpeg',
+    '/23.jpeg',
+    '/24.jpeg',
+    '/25.jpeg',
   ];
 
   return (
